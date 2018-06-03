@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/cpp_fruit_demo.dir/main.cpp.o  -o cpp_fruit_demo -lfruit 
